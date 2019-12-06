@@ -12,6 +12,7 @@ Definitely Working
  * [Bittorrent Tracker](https://github.com/eyedeekay/samtracker)
  * [Debian Repository](https://github.com/eyedeekay/reposam)
  * [Cowyo Wiki](https://github.com/eyedeekay/cowyosam)
+ * [Browser Fingerprinter](https://github.com/eyedeekay/colluding_sites_attack)
  * [IPFS Gateway](https://github.com/RTradeLtd/go-ipfs-plugin-i2p-gateway)
 
 Maybe Working
